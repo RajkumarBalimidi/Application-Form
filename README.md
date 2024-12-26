@@ -12,7 +12,7 @@ if You want to submit another response than click on the "sen another response" 
 
 
 ### Technologies Used :-
-##### . HTML
-##### . CSS
-##### . Bootstrap
-##### . Javascript
+##### -> HTML
+##### -> CSS
+##### -> Bootstrap
+##### -> Javascript
