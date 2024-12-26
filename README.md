@@ -2,7 +2,7 @@
 This is the simple application form i had created by developed only the frontend.
 
 
-### Explanation :-
+## Explanation :-
 
 Here, this application asked to the user details of First name, Last name, Middle Name, Email, Data of Birth, Age, Mobile Number, Gender, Living Area, Skills, Country, State, Address.
 And also the user need to create a New Password and Confirm the Password. If any of the field is empty it will show the error message of that particular field. And the Confirm password should be mathced to the New Password. Otherwise it will display the error message.
@@ -11,8 +11,11 @@ If all the fields are filled than click on the submit button. Next it will pop u
 if You want to submit another response than click on the "sen another response" link. It will redirected to the index.html page.
 
 
-### Technologies Used :-
+## Technologies Used :-
 ##### -> HTML
 ##### -> CSS
 ##### -> Bootstrap
 ##### -> Javascript
+
+## Video Tour :-
+
