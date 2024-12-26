@@ -19,4 +19,4 @@ if You want to submit another response than click on the "sen another response" 
 
 ## Video Tour :-
 
- ![Image Alt]([image_url](https://github.com/RajkumarBalimidi/Application-Form/blob/24dc7bd88681a2aecc06e3b6ba191d19db1a51de/Screen%20Recording%202024-12-26%20123243.mp4))
+ ![Image Alt](https://github.com/RajkumarBalimidi/Application-Form/blob/24dc7bd88681a2aecc06e3b6ba191d19db1a51de/Screen%20Recording%202024-12-26%20123243.mp4)
